@@ -1,4 +1,4 @@
-# citi-bike-analysis
+# Citi Bike Analysis
 Analyzing the usage and trends of Citi Bikes in New York City.
 
 ## Analysis
